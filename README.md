@@ -3,7 +3,6 @@
 - 📫 hnehme99@gmail.com
 
 - Projects:
-- https://twitdown.pythonanywhere.com/
 - https://chemistrytools.pythonanywhere.com/
 <!---
 hnehme99/hnehme99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
