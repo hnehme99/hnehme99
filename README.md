@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hnehme99
 - 👀 I’m interested in Python
-- 📫 hnehme99@gmail.com
 
 - Projects:
 - https://chemistrytools.pythonanywhere.com/
